@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/ferenc4/example-gradle-codecov.svg?branch=master)](https://travis-ci.org/ferenc4/example-gradle-codecov)
+[![codecov](https://codecov.io/gh/ferenc4/example-gradle-codecov/branch/master/graph/badge.svg)](https://codecov.io/gh/ferenc4/example-gradle-codecov)
 [Codecov][1] Gradle Example
 ===========================
 
